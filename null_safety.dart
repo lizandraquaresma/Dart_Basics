@@ -1,4 +1,5 @@
 // 2 - Introdução null-safety
+//Artigo sobre Null Safety: https://dev.to/rrafush/entendendo-o-null-safety-437k 
 void main(){
   
   String? sobre; //utilizar a interrogação permite que a var contenha null
