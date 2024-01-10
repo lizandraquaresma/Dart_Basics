@@ -2,7 +2,7 @@
 void main (){
 
   //If e Else
-  bool prosseguir = true;
+  bool prosseguir = true;//modifique o valor para teste
 
   if(prosseguir){
     print("Andar");
